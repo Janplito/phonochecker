@@ -1,0 +1,8 @@
+<1.0>
+- Adicionado Config
+<1.1>
+- Adicionado novo menu
+- Adicionado funcionalidade de volume
+- Trocado notify por prompts
+- Sistema de Log no discord com configuração de trocar a foto e o nome
+- Config extenso com possibilidade de alteração de todos os textos
